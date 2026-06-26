@@ -1,0 +1,13 @@
+model,true_closed_pred_closed,true_closed_pred_acquired,true_acquired_pred_closed,true_acquired_pred_acquired
+gaussian_naive_bayes,81,1,148,1
+logistic_regression,58,24,46,103
+knn_7,44,38,21,128
+svm_linear,55,27,46,103
+svm_rbf,60,22,36,113
+decision_tree,53,29,39,110
+bagging_trees,62,20,36,113
+random_forest,61,21,32,117
+extra_trees,56,26,40,109
+adaboost,41,41,8,141
+gradient_boosting,55,27,17,132
+hist_gradient_boosting,50,32,19,130
