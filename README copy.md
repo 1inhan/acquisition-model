@@ -322,13 +322,7 @@ Interpretation:
 - Network/relationship count is the clearest signal in the dataset.
 - Funding and milestone maturity are also important.
 - Industry and state matter, but the strongest model signal is from quantitative startup maturity metrics.
-
-## Recommended Project Narrative
-
-A defensible project framing is:
-
-> We first establish that funding history, investor participation, milestone timing, geography, and industry features contain measurable signal for acquisition outcomes. Classical baselines achieve substantially better-than-majority performance, with Gradient Boosting reaching 0.8694 ROC-AUC on a stratified holdout set. These results justify later work on richer temporal models, while also showing that simple structured startup features already capture meaningful acquisition relevance.
-
+- 
 ## Environment
 
 Create the environment:
