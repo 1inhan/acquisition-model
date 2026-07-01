@@ -1,9 +1,0 @@
-check,status,observed,note
-row_count_positive,pass,923,Dataset has rows.
-id_unique,fail,922,Startup IDs should be unique.
-target_complete,pass,0,Target should be complete.
-target_binary,pass,"[np.int64(0), np.int64(1)]",Target should be binary.
-target_has_both_classes,pass,"{1: 597, 0: 326}",Both acquired and closed classes should exist.
-funding_total_nonnegative,pass,11000.0,Funding totals should be nonnegative.
-quantitative_missing_under_20pct,pass,16.47,No quantitative feature should exceed 20% missingness.
-categorical_complete,pass,0,Categorical model inputs should be complete after cleaning.
