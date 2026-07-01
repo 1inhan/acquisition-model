@@ -9,7 +9,7 @@ This is sourced from kaggle through the following link: https://www.kaggle.com/d
 
 Please thank (according to the Kaggle source):
 - Ramkishan Panthena, for providing us this dataset. He is a Machine Learning Engineer at GMO.
-- This dataset was used in data sprint #5 at DPhi. ggggggggg
+- This dataset was used in data sprint #5 at DPhi.
 
 
 ## Dataset
