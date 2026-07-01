@@ -1,0 +1,9 @@
+feature,test,levels,chi_square,p_value,cramers_v
+has_roundA,chi-square,2,31.3533,0.0,0.1843
+has_roundB,chi-square,2,40.0315,0.0,0.2083
+has_roundC,chi-square,2,25.404,0.0,0.1659
+has_roundD,chi-square,2,18.0754,2.1e-05,0.1399
+state,chi-square,35,69.3079,0.000329,0.274
+industry_type,chi-square,35,62.7262,0.00194,0.2607
+has_angel,chi-square,2,4.8972,0.026901,0.0728
+has_VC,chi-square,2,2.948,0.085981,0.0565
