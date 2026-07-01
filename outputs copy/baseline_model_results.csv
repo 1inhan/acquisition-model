@@ -1,0 +1,14 @@
+model,split,train_rows,test_rows,accuracy,balanced_accuracy,precision,recall,f1,roc_auc,pr_auc
+majority_baseline,stratified_holdout,,231,0.645,0.5,0.645,1.0,0.7842,0.5,0.645
+gaussian_naive_bayes,stratified_holdout,692,231,0.355,0.4973,0.5,0.0067,0.0132,0.3807,0.5981
+logistic_regression,stratified_holdout,692,231,0.697,0.6993,0.811,0.6913,0.7464,0.7954,0.8586
+knn_7,stratified_holdout,692,231,0.7446,0.6978,0.7711,0.8591,0.8127,0.7546,0.8166
+svm_linear,stratified_holdout,692,231,0.684,0.681,0.7923,0.6913,0.7384,0.7713,0.8426
+svm_rbf,stratified_holdout,692,231,0.7489,0.745,0.837,0.7584,0.7958,0.8218,0.872
+decision_tree,stratified_holdout,692,231,0.7056,0.6923,0.7914,0.7383,0.7639,0.7735,0.8309
+bagging_trees,stratified_holdout,692,231,0.7576,0.7572,0.8496,0.7584,0.8014,0.8465,0.8953
+random_forest,stratified_holdout,692,231,0.7706,0.7646,0.8478,0.7852,0.8153,0.8353,0.8899
+extra_trees,stratified_holdout,692,231,0.7143,0.7072,0.8074,0.7315,0.7676,0.7644,0.833
+adaboost,stratified_holdout,692,231,0.7879,0.7232,0.7747,0.9463,0.852,0.8611,0.9118
+gradient_boosting,stratified_holdout,692,231,0.8095,0.7783,0.8302,0.8859,0.8571,0.8694,0.9159
+hist_gradient_boosting,stratified_holdout,692,231,0.7792,0.7411,0.8025,0.8725,0.836,0.8174,0.8721

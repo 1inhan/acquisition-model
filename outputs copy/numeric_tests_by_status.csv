@@ -1,0 +1,10 @@
+feature,test,acquired_median,closed_median,median_difference,statistic,p_value
+relationships,Mann-Whitney U,7.0,3.0,4.0,152052.0,0.0
+funding_rounds,Mann-Whitney U,2.0,2.0,0.0,125677.5,0.0
+funding_total_usd,Mann-Whitney U,12700000.0,5000000.0,7700000.0,127737.0,0.0
+milestones,Mann-Whitney U,2.0,1.0,1.0,136377.0,0.0
+age_first_milestone_year,Mann-Whitney U,3.0,1.2521,1.7479,79531.5,0.0
+age_last_milestone_year,Mann-Whitney U,5.0027,2.8219,2.1808,85039.5,0.0
+avg_participants,Mann-Whitney U,2.6667,2.0,0.6667,123673.0,0.0
+age_last_funding_year,Mann-Whitney U,3.7562,2.7192,1.037,114179.5,1.3e-05
+age_first_funding_year,Mann-Whitney U,1.4466,1.4384,0.0082,96896.5,0.914823
