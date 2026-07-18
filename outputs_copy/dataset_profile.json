@@ -1,0 +1,35 @@
+{
+  "raw_file": "startup data.csv",
+  "rows": 923,
+  "columns": 25,
+  "target": "is_acquired",
+  "target_distribution": {
+    "acquired": 597,
+    "closed": 326
+  },
+  "quantitative_features": [
+    "age_first_funding_year",
+    "age_last_funding_year",
+    "relationships",
+    "funding_rounds",
+    "funding_total_usd",
+    "milestones",
+    "age_first_milestone_year",
+    "age_last_milestone_year",
+    "avg_participants"
+  ],
+  "categorical_features": [
+    "state",
+    "industry_type",
+    "has_VC",
+    "has_angel",
+    "has_roundA",
+    "has_roundB",
+    "has_roundC",
+    "has_roundD"
+  ],
+  "excluded_leakage_columns": [
+    "labels",
+    "status"
+  ]
+}
